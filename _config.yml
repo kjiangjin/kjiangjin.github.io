@@ -21,8 +21,8 @@ repository               : "kjiangjin/kjiangjin.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author: 
   # Biographic information
-  avatar           : "profile.png"
-  name             : "jindongjiang(江锦东)"
+  avatar           : "jjd.png"
+  name             : "Jindong Jiang(江锦东)"
   pronouns         : # example: "she/her"  
   bio              : "a third year undergraduate student in Nanjing University"
   location         : "Nanjing, China"
@@ -42,7 +42,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/kjiangjin"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
