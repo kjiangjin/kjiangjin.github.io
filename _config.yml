@@ -21,7 +21,7 @@ repository               : "kjiangjin/kjiangjin.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author: 
   # Biographic information
-  avatar           : "jjd.png"
+  avatar           : "profile.png"
   name             : "Jindong Jiang(江锦东)"
   pronouns         : # example: "she/her"  
   bio              : "a third year undergraduate student in Nanjing University"
