@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from Maths, [Nanjing University](https://www.nju.edu.cn/). My research interest includes...
+I'm a third year undergraduate student from Maths, [Nanjing University](https://www.nju.edu.cn/). My research interest includes GNNs, Machine learning, LLM.
